@@ -1,5 +1,5 @@
 # Backtester Class Usage Guide
-
+(SOMETHING IS CLEARLY WRONG WITH THE BACKTESTING LOGIC OR STRATEGIES: SEE RESULT)
 ## Overview
 The `backtester` class is a Python tool designed for backtesting trading strategies. It allows users to test trading strategies on historical data to evaluate their performance. This class supports various functionalities including adding data, adding strategies, running backtests, and generating a summary of the backtest results.
 
